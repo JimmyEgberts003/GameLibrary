@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameLibrary</string>
+    <string name="game_image_placeholder">An image of the game.</string>
+    <string name="game_title_placeholder">Cave Story</string>
+    <string name="game_description_placeholder">2019–07–01</string>
+    <string name="add_game_item_button_content">Press to add a new game.</string>
+</resources>
